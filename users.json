@@ -1954,7 +1954,8 @@
     "name": "Rashendra Gunawardena",
     "github": "rashendra",
     "certs": [
-      "awstronaut"
+      "awstronaut",
+      "kubestrong"
     ],
     "city": "Melbourne",
     "country": "Australia",
@@ -2071,7 +2072,7 @@
     "avatar": "/avatars/albertzhu.png"
   },
   {
-	  "name": "Omshree Butani",
+	"name": "Omshree Butani",
     "certs": [
       "awstronaut"
     ],
@@ -2081,5 +2082,18 @@
     "date": "2026-05-21",
     "linkedin": "omshree-butani",
     "avatar": "/avatars/omshreebutani.jpg"
+  },
+  {
+  	"name": "Priyanshi Gangwar",
+  	"github": "priyanshigangwar",
+    "certs": [
+    "awstronaut"
+      ],
+    "city": "Kichha",
+    "country": "India",
+    "date": "2026-03-01",
+    "bio": "India's Youngest AWS Golden Jacket Holder | GenAI Engineer | 13x AWS Certified | 6x Azure Certified | 2x GCP Certified | Agentic AI on AWS | DevOps & IaC | Kubestronaut | Multi-Cloud Architect",
+    "linkedin": "priyanshigangwar",
+    "avatar": "/avatars/priyanshi.jpg"
   }
 ]
