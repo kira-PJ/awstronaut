@@ -2083,8 +2083,8 @@
     "linkedin": "omshree-butani",
     "avatar": "/avatars/omshreebutani.jpg"
   },
-  {
-  	"name": "Priyanshi Gangwar",
+  { 
+    "name": "Priyanshi Gangwar",
   	"github": "priyanshigangwar",
     "certs": [
     "awstronaut"
@@ -2095,5 +2095,19 @@
     "bio": "India's Youngest AWS Golden Jacket Holder | GenAI Engineer | 13x AWS Certified | 6x Azure Certified | 2x GCP Certified | Agentic AI on AWS | DevOps & IaC | Kubestronaut | Multi-Cloud Architect",
     "linkedin": "priyanshigangwar",
     "avatar": "/avatars/priyanshi.jpg"
+  },
+  {
+    "name": "Jatin Goel",
+    "github": "Learner1292",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Greater Noida",
+    "country": "India",
+    "date": "2026-02-02",
+    "bio": "Cloud & AI | AWS Golden Jacket | M.Tech @IITPatna | 14* AWS Certifications | Cloud Architect | DevOps Engineer | Data Analyst",
+    "avatar": "/avatars/JatinGoel.png",
+	  "website": "https://www.eradigicloud.co.in",
+    "linkedin": "jatingoel12"
   }
 ]
