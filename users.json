@@ -2072,7 +2072,7 @@
     "avatar": "/avatars/albertzhu.png"
   },
   {
-	  "name": "Omshree Butani",
+	"name": "Omshree Butani",
     "certs": [
       "awstronaut"
     ],
@@ -2090,7 +2090,6 @@
     "awstronaut"
       ],
     "city": "Kichha",
-    "state": "Uttarakhand",
     "country": "India",
     "date": "2026-03-01",
     "bio": "India's Youngest AWS Golden Jacket Holder | GenAI Engineer | 13x AWS Certified | 6x Azure Certified | 2x GCP Certified | Agentic AI on AWS | DevOps & IaC | Kubestronaut | Multi-Cloud Architect",
