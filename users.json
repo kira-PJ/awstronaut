@@ -2057,21 +2057,6 @@
     "github": "DevAlex001",
     "bio": "AWS Community Builder - AI | DevOps/Cloud | 13x AWS | :: Let's connect on LinkedIn!"
   },
-	{
-    "name": "Piyush Jalan",
-    "github": "piyushjalan02",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Jaipur",
-    "country": "India",
-    "date": "2026-06-26",
-    "bio": "Cloud & AI Leader | AWS Ambassador | AWS Golden Jacket Holder | AWS Community Builder | Empowering Businesses & Driving Innovation at Intuitive.ai",
-    "twitter": "PiyushJalan93",
-    "linkedin": "piyush-jalan",
-    "website": "https://piyushj02.medium.com/",
-    "avatar": "/avatars/PiyushJalan.jpg"
-},
   {
     "name": "Albert Zhu",
     "github": "Albertzue",
@@ -2124,5 +2109,20 @@
     "avatar": "/avatars/JatinGoel.png",
 	  "website": "https://www.eradigicloud.co.in",
     "linkedin": "jatingoel12"
+  },
+  {
+    "name": "Piyush Jalan",
+    "github": "piyushjalan02",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Jaipur",
+    "country": "India",
+    "date": "2026-06-26",
+    "bio": "Cloud & AI Leader | AWS Ambassador | AWS Golden Jacket Holder | AWS Community Builder | Empowering Businesses & Driving Innovation at Intuitive.ai",
+    "twitter": "PiyushJalan93",
+    "linkedin": "piyush-jalan",
+    "website": "https://piyushj02.medium.com/",
+    "avatar": "/avatars/PiyushJalan.jpg"
   }
 ]
