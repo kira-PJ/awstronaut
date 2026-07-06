@@ -2125,5 +2125,19 @@
     "linkedin": "piyush-jalan",
     "website": "https://piyushj02.medium.com/",
     "avatar": "/avatars/PiyushJalan.jpg"
+  },
+  {
+    "name": "Nana Yamaguchi",
+    "github": "yghc",
+    "certs": [
+      "awstronaut",
+      "kubestrong",
+      "kubestronaut"
+    ],
+    "city": "Tokyo",
+    "country": "Japan",
+    "date": "2026-07-05",
+    "linkedin": "nana-yamaguchi-611554327",
+    "avatar": "/avatars/nanayamaguchi.png"
   }
 ]
